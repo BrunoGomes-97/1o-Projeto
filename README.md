@@ -38,7 +38,7 @@ Esse projeto é um agregador de links para ser usado como um cartão de visitas 
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gg6FP22McszxirEh1Wq2Qm/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=10-620&mode=design&t=aKQgsNk7N1lu0XkZ-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## Licença
+## :memo: Licença
 
 Esse projeto está sob a licença MIT.
 
